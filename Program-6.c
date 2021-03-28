@@ -6,7 +6,9 @@
 	#include<stdio.h>
 	int sum(int a,int b)
 	{
-	    //Complete the missing code
+	   int c;
+     c=a+b;
+     return (c); //Complete the missing code
 	}
 	int main()
 	{
@@ -16,4 +18,5 @@
 	    var3=sum(var1,var2);
 	    printf("%d",var3);
 	    return 0;
+
 	}
