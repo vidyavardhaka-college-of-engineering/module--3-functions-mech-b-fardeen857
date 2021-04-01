@@ -19,3 +19,4 @@
 	   printf("num2 value is:%d",num2);//enter the missing data
 	   return 0;
 	}
+
